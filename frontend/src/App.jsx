@@ -159,7 +159,7 @@ function App() {
                         <span className="capitalize">
                           {exp.category.toLowerCase()}
                         </span>{" "}
-                        •{exp.description &&    } {exp.date}
+                        •{exp.description    } {exp.date}
                       </p>
                     </div>
                     <div className="flex items-center space-x-4">
