@@ -24,7 +24,7 @@ The backend will run on http://localhost:8080
 
 
 2. Frontend (React + Vite)
-3. 
+
 bash
 cd expense-tracker-frontend
 npm install  # Install dependencies
